@@ -1,5 +1,6 @@
 # ZwitterNotes
-Converts amino acid sequence fasta files to abc notation file to play music 
+Converts amino acid sequence fasta files to abc notation file to play music in an abc notation reading software of your choice.
+
 
 Amino acid chord rules:
 
